@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @souhayelbj and a Network and Security Engineer
 - 👀 I’m interested in Network, Security, System, Automation, DevOPS and Development Areas
 - 🌱 I’m currently learning DJANGO Framework, Automation, Cloud
-- 📫 You can reach me at sbj (at) daya-it.tech
+- 📫 You can reach me at sbj (at) dayatech.fr
 
 <!--- 💞️ I’m looking to collaborate on ... --->
 <!---
