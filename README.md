@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @souhayelbj and a Network and Security Engineer
+- 👋 Hi, I’m @souhayelbj and a Network and Security Engineer living in France near Paris
 - 👀 I’m interested in Network, Security, System, Automation, DevOPS and Development Areas
 - 🌱 I’m currently learning DJANGO Framework, Automation, Cloud
 - 📫 You can reach me at sbj (at) dayatech.fr
